@@ -1,2 +1,2 @@
-# Housing_Prediction_Canada
-This Repo is example of applying prediction models to predict the housing Market prices in Boston and the same code is applied in Canada's Montreal housing too, using public data sets of the year 2020.
+# Housing_Prediction
+In this project i will be using data collected from homes from the city of Boston to train and test the model. the objective is to predict the value of prices of the house using given features. The dataset for the project was downloaded for free from https://www.kaggle.com. 
